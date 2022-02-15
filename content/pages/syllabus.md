@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 043123f2-0c00-f732-7e2f-12f827ff9e46
 ---
@@ -14,7 +16,7 @@ Films: 1 Film Screening / week, time variable
 Description
 -----------
 
-This course examines the literature and cinema of Japan, including major written works from the 7th century to the present though emphasizing modern fiction, and major films from the postwar period. Literature in the form of historical fiction, novels, short stories and poetry will be coordinated with a range of feature films to explore issues of narrative style, the production of meaning in diverse cultural and historical contexts, and the shifting ground of Japanese aesthetics and culture. One of the themes we will consider is cross-cultural adaptations, as images and ideas move from the West to Japan, and from Japan to the West.
+This course examines the literature and cinema of Japan, including major written works from the 7{{< sup "th" >}} century to the present though emphasizing modern fiction, and major films from the postwar period. Literature in the form of historical fiction, novels, short stories and poetry will be coordinated with a range of feature films to explore issues of narrative style, the production of meaning in diverse cultural and historical contexts, and the shifting ground of Japanese aesthetics and culture. One of the themes we will consider is cross-cultural adaptations, as images and ideas move from the West to Japan, and from Japan to the West.
 
 As a communication intensive course, the class requires substantial writing, individual student presentations, and class discussion, and therefore class attendance and participation are mandatory. Films will be screened outside of normal class meeting times, and, whenever possible, a DVD copy will be available from the Film Office for students who cannot attend the screening.
 
