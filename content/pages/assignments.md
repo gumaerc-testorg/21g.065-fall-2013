@@ -1,9 +1,10 @@
 ---
 content_type: page
+description: This section provides information on the writing assignments, oral presentations,
+  and small group projects required for the course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
-parent_uid: null
 title: Assignments
 uid: ce425cbf-a676-40aa-dcdd-d2e42864501a
 ---
